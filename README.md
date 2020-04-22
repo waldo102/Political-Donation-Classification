@@ -1,4 +1,4 @@
-# Political-Donation-Classification
+# Political Donation Classification
 Goal: Classify higher-income earners based on personal characteristics for the purposes of fundraising the most amount of money for a political campaign
 
 Data: adult_data.txt
